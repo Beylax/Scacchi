@@ -1,0 +1,19 @@
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Schacchi v1.1\Schacchi v1.1\bin\Debug\Schacchi v1.1.exe.config
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Schacchi v1.1\Schacchi v1.1\bin\Debug\Schacchi v1.1.exe
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Schacchi v1.1\Schacchi v1.1\bin\Debug\Schacchi v1.1.pdb
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Schacchi v1.1\Schacchi v1.1\obj\Debug\Schacchi v1.1.csprojAssemblyReference.cache
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Schacchi v1.1\Schacchi v1.1\obj\Debug\MainWindow.g.cs
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Schacchi v1.1\Schacchi v1.1\obj\Debug\App.g.cs
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Schacchi v1.1\Schacchi v1.1\obj\Debug\Schacchi v1.1_MarkupCompile.cache
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Schacchi v1.1\Schacchi v1.1\obj\Debug\Schacchi v1.1_MarkupCompile.lref
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Schacchi v1.1\Schacchi v1.1\obj\Debug\MainWindow.baml
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Schacchi v1.1\Schacchi v1.1\obj\Debug\Schacchi v1.1.g.resources
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Schacchi v1.1\Schacchi v1.1\obj\Debug\Schacchi_v1._1.Properties.Resources.resources
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Schacchi v1.1\Schacchi v1.1\obj\Debug\Schacchi v1.1.csproj.GenerateResource.cache
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Schacchi v1.1\Schacchi v1.1\obj\Debug\Schacchi v1.1.csproj.CoreCompileInputs.cache
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Schacchi v1.1\Schacchi v1.1\obj\Debug\Schacchi v1.1.exe
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Schacchi v1.1\Schacchi v1.1\obj\Debug\Schacchi v1.1.pdb
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Schacchi v1.1\Schacchi v1.1\obj\Debug\App.baml
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Schacchi v1.1\Schacchi v1.1\obj\Debug\Schacchi v1.1_Content.g.cs
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Schacchi v1.1\Schacchi v1.1\obj\Debug\Window1.g.cs
+C:\Users\manue\Desktop\informatica\esercizi visual studio\Esercizi VS 2k20\Schacchi v1.1\Schacchi v1.1\obj\Debug\Window1.baml
